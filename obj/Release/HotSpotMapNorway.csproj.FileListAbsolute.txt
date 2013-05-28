@@ -1,7 +1,0 @@
-C:\WebApplications\RadonData\Bin\HotSpotMapNorway.dll
-C:\WebApplications\RadonData\Bin\HotSpotMapNorway.pdb
-C:\MSCS\HotSpotMapNorway\obj\Release\ResolveAssemblyReference.cache
-C:\MSCS\HotSpotMapNorway\obj\Release\HotSpotMapNorway.dll
-C:\MSCS\HotSpotMapNorway\obj\Release\HotSpotMapNorway.pdb
-C:\WebApplications\RadonDataPublisering\Bin\HotSpotMapNorway.dll
-C:\WebApplications\RadonDataPublisering\Bin\HotSpotMapNorway.pdb

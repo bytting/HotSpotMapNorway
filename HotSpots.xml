@@ -1,0 +1,1359 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<counties>
+  <county name="Østfold">
+    <coordinates>141,521 141,496 157,487 170,488 164,521</coordinates>
+    <community name="Rømskog">
+      <coordinates>363,57 419,24 437,85 409,111 376,119 351,93</coordinates>
+    </community>
+    <community name="Marker">
+      <coordinates>307,134 331,243 324,293 391,280 364,138 376,119 351,93</coordinates>
+    </community>
+    <community name="Aremark">
+      <coordinates>315,325 351,453 376,414 394,331 391,280 324,293</coordinates>
+    </community>
+    <community name="Halden">
+      <coordinates>256,322 212,399 218,411 251,401 279,525 299,532 338,518 351,453 315,325</coordinates>
+    </community>
+    <community name="Trøgstad">
+      <coordinates>312,115 271,45 245,36 233,81 224,97 251,145 307,134</coordinates>
+    </community>
+    <community name="Spydeberg">
+      <coordinates>188,73 174,137 163,140 158,178 183,178 206,154 194,128 224,97 233,81</coordinates>
+    </community>
+    <community name="Hobøl">
+      <coordinates>165,66 104,146 106,167 162,156 163,140 174,137 188,73</coordinates>
+    </community>
+    <community name="Askim">
+      <coordinates>221,161 244,132 224,97 194,128 206,154</coordinates>
+    </community>
+    <community name="Skiptvet">
+      <coordinates>207,243 232,202 221,161 206,154 183,178</coordinates>
+    </community>
+    <community name="Eidsberg">
+      <coordinates>322,206 307,134 251,145 244,132 221,161 232,202</coordinates>
+    </community>
+    <community name="Rakkestad">
+      <coordinates>219,236 256,322 315,325 324,293 331,243 322,206 232,202 207,243</coordinates>
+    </community>
+    <community name="Våler">
+      <coordinates>183,242 111,235 106,167 162,156 158,178 183,178 201,228</coordinates>
+    </community>
+    <community name="Moss">
+      <coordinates>68,171 38,212 64,223 108,201 106,167</coordinates>
+    </community>
+    <community name="Rygge">
+      <coordinates>91,264 111,235 108,201 64,223 62,290</coordinates>
+    </community>
+    <community name="Råde">
+      <coordinates>68,303 135,288 157,240 111,235 91,264 62,290</coordinates>
+    </community>
+    <community name="Sarpsborg">
+      <coordinates>186,379 177,345 193,322 189,310 165,312 143,269 157,240 183,242 201,228 207,243 219,236 256,322 212,399</coordinates>
+    </community>
+    <community name="Fredrikstad">
+      <coordinates>83,375 186,379 177,345 193,322 189,310 165,312 143,269 135,288 68,303</coordinates>
+    </community>
+    <community name="Hvaler">
+      <coordinates>153,475 218,411 212,399 186,379 83,375</coordinates>
+    </community>
+  </county>
+  <county name="Akershus">
+    <coordinates>170,488 157,454 149,458 147,470 151,478 148,484 140,475 138,488 141,496 157,487</coordinates>
+    <community name="Hurdal">
+      <coordinates>154,49 142,91 176,100 202,137 241,140 253,110 238,56 201,73 168,64</coordinates>
+    </community>
+    <community name="Eidsvoll">
+      <coordinates>256,18 238,56 253,110 241,140 244,186 276,194 320,145 302,88</coordinates>
+    </community>
+    <community name="Nes">
+      <coordinates>357,182 351,223 394,266 403,302 308,311 279,276 276,194 320,145</coordinates>
+    </community>
+    <community name="Aurskog-Høland">
+      <coordinates>420,409 314,499 282,421 280,361 308,311 403,302</coordinates>
+    </community>
+    <community name="Ullensaker">
+      <coordinates>223,209 230,244 232,275 279,276 276,194 244,186</coordinates>
+    </community>
+    <community name="Nannestad">
+      <coordinates>185,147 161,192 160,207 178,212 210,247 230,244 223,209 244,186 241,140 202,137</coordinates>
+    </community>
+    <community name="Gjerdrum">
+      <coordinates>199,280 232,275 230,244 210,247 192,227</coordinates>
+    </community>
+    <community name="Nittedal">
+      <coordinates>134,229 175,305 193,313 206,302 199,280 192,227 178,212 160,207</coordinates>
+    </community>
+    <community name="Sørum">
+      <coordinates>214,278 280,361 308,311 279,276 232,275</coordinates>
+    </community>
+    <community name="Skedsmo">
+      <coordinates>192,323 208,330 232,316 245,316 214,278 199,280 206,302 193,313</coordinates>
+    </community>
+    <community name="Lørenskog">
+      <coordinates>181,352 186,376 211,377 208,330 192,323</coordinates>
+    </community>
+    <community name="Fet">
+      <coordinates>257,418 282,421 280,361 245,316 232,316 222,321</coordinates>
+    </community>
+    <community name="Rælingen">
+      <coordinates>242,377 211,377 208,330 222,321</coordinates>
+    </community>
+    <community name="Enebakk">
+      <coordinates>195,438 252,454 257,418 242,377 186,376</coordinates>
+    </community>
+    <community name="Ski">
+      <coordinates>161,383 152,430 168,478 194,461 195,438 186,376</coordinates>
+    </community>
+    <community name="Oppegård">
+      <coordinates>145,379 133,402 156,411 161,383</coordinates>
+    </community>
+    <community name="Nesodden">
+      <coordinates>124,349 91,392 89,431 133,402 145,379</coordinates>
+    </community>
+    <community name="Bærum">
+      <coordinates>119,309 77,271 49,308 49,338 105,372 124,349</coordinates>
+    </community>
+    <community name="Asker">
+      <coordinates>43,388 91,392 105,372 49,338</coordinates>
+    </community>
+    <community name="Frogn">
+      <coordinates>107,484 138,443 133,402 89,431</coordinates>
+    </community>
+    <community name="Ås">
+      <coordinates>161,492 168,478 152,430 156,411 133,402 138,443 122,463</coordinates>
+    </community>
+    <community name="Vestby">
+      <coordinates>123,551 161,492 122,463 107,484</coordinates>
+    </community>
+  </county>
+  <county name="Oslo">
+    <coordinates>148,484 151,478 147,470 140,475</coordinates>
+    <community name="Oslo">
+      <coordinates>124,89 37,195 144,296 143,368 165,428 225,445 229,509 347,560 398,525 376,443 421,333 402,272 333,243 322,138 287,54 216,13 157,7 121,35</coordinates>
+    </community>
+  </county>
+  <county name="Vestfold">
+    <coordinates>141,521 123,519 124,497 138,488 141,496</coordinates>
+    <community name="Svelvik">
+      <coordinates>303,27 314,106 329,127 345,65 332,13 312,9</coordinates>
+    </community>
+    <community name="Sande">
+      <coordinates>236,20 206,38 241,91 282,124 329,127 314,106 303,27</coordinates>
+    </community>
+    <community name="Hof">
+      <coordinates>196,19 157,80 209,175 236,181 233,150 245,149 235,102 241,91 206,38</coordinates>
+    </community>
+    <community name="Holmestrand">
+      <coordinates>307,168 300,185 268,184 262,160 236,168 233,150 245,149 235,102 241,91 282,124</coordinates>
+    </community>
+    <community name="Lardal">
+      <coordinates>119,314 84,261 91,162 200,159 209,175 180,265 140,264 139,291</coordinates>
+    </community>
+    <community name="Larvik">
+      <coordinates>125,374 101,381 90,529 197,516 252,470 210,406 216,373 197,359 170,312 180,265 140,264 139,291 119,314</coordinates>
+    </community>
+    <community name="Andebu">
+      <coordinates>235,228 252,268 251,297 226,324 234,359 216,373 197,359 170,312 180,265 193,225</coordinates>
+    </community>
+    <community name="Ramnes">
+      <coordinates>276,289 309,266 292,237 276,243 252,164 236,168 236,181 209,175 193,225 235,228 252,268</coordinates>
+    </community>
+    <community name="Våle">
+      <coordinates>318,189 304,201 307,222 320,222 323,260 309,266 292,237 276,243 252,164 262,160 268,184 300,185 307,168</coordinates>
+    </community>
+    <community name="Borre">
+      <coordinates>363,192 352,264 323,260 320,222 307,222 304,201 318,189</coordinates>
+    </community>
+    <community name="Tønsberg">
+      <coordinates>370,288 344,342 287,317 276,289 309,266 323,260 352,264</coordinates>
+    </community>
+    <community name="Stokke">
+      <coordinates>289,388 263,369 254,355 234,359 226,324 251,297 252,268 276,289 287,317 312,329</coordinates>
+    </community>
+    <community name="Sandefjord">
+      <coordinates>282,439 252,470 210,406 216,373 234,359 254,355 263,369 289,388</coordinates>
+    </community>
+    <community name="Nøtterøy">
+      <coordinates>338,395 289,388 312,329 344,342</coordinates>
+    </community>
+    <community name="Tjøme">
+      <coordinates>305,477 341,477 338,395 289,388 282,439</coordinates>
+    </community>
+  </county>
+  <county name="Telemark">
+    <coordinates>123,519 112,523 85,509 72,480 81,466 110,468 124,497</coordinates>
+    <community name="Vinje">
+      <coordinates>139,45 184,115 177,136 196,170 178,190 183,238 140,240 128,262 108,224 58,221 0,179 0,115 30,81 57,72 67,47 97,40</coordinates>
+    </community>
+    <community name="Tinn">
+      <coordinates>176,28 285,39 320,72 325,112 353,134 351,169 320,186 305,139 285,154 237,151 196,170 177,136 184,115 139,45</coordinates>
+    </community>
+    <community name="Notodden">
+      <coordinates>377,187 374,214 387,220 391,263 338,280 330,265 311,265 290,277 277,277 270,263 312,244 312,227 300,219 285,154 305,139 320,186 351,169</coordinates>
+    </community>
+    <community name="Hjartdal">
+      <coordinates>237,240 270,263 312,244 312,227 300,219 285,154 237,151 209,164</coordinates>
+    </community>
+    <community name="Seljord">
+      <coordinates>289,293 273,305 280,322 242,313 240,288 230,288 183,238 178,190 196,170 209,164 237,240 270,263 277,277 290,277</coordinates>
+    </community>
+    <community name="Kviteseid">
+      <coordinates>270,349 235,340 229,357 188,348 154,313 180,295 194,250 230,288 240,288 242,313 280,322</coordinates>
+    </community>
+    <community name="Tokke">
+      <coordinates>60,308 58,221 108,224 128,262 140,240 183,238 194,250 180,295 154,313</coordinates>
+    </community>
+    <community name="Fyresdal">
+      <coordinates>75,373 119,451 167,456 185,409 175,358 188,348 154,313 60,308</coordinates>
+    </community>
+    <community name="Nissedal">
+      <coordinates>251,403 234,407 240,431 264,449 249,501 215,466 196,479 167,456 185,409 175,358 188,348 229,357</coordinates>
+    </community>
+    <community name="Drangedal">
+      <coordinates>309,377 322,374 325,401 337,401 363,435 316,486 290,450 264,449 240,431 234,407 251,403 229,357 235,340 270,349</coordinates>
+    </community>
+    <community name="Bø">
+      <coordinates>323,318 280,322 273,305 289,293 290,277 311,265 330,265 338,280</coordinates>
+    </community>
+    <community name="Nome">
+      <coordinates>352,379 375,374 348,339 323,318 280,322 270,349 309,377 322,374 325,401 337,401</coordinates>
+    </community>
+    <community name="Sauherad">
+      <coordinates>399,271 390,288 369,325 348,339 323,318 338,280 391,263</coordinates>
+    </community>
+    <community name="Skien">
+      <coordinates>434,390 404,347 413,308 390,288 369,325 348,339 375,374 352,379 337,401 363,435</coordinates>
+    </community>
+    <community name="Siljan">
+      <coordinates>441,318 437,346 452,380 448,391 434,390 404,347 413,308</coordinates>
+    </community>
+    <community name="Porsgrunn">
+      <coordinates>439,453 448,391 434,390 399,412</coordinates>
+    </community>
+    <community name="Bamble">
+      <coordinates>383,487 348,453 363,435 399,412 439,453</coordinates>
+    </community>
+    <community name="Kragerø">
+      <coordinates>346,535 383,487 348,453 316,486 321,518</coordinates>
+    </community>
+  </county>
+  <county name="Aust-Agder">
+    <coordinates>72,480 64,501 86,548 112,523 85,509</coordinates>
+    <community name="Bykle">
+      <coordinates>159,80 139,11 90,1 54,21 5,126 9,162 36,162 80,132 116,135</coordinates>
+    </community>
+    <community name="Valle">
+      <coordinates>171,134 180,212 57,252 48,232 67,184 36,162 80,132 116,135 143,102</coordinates>
+    </community>
+    <community name="Bygland">
+      <coordinates>208,263 196,350 189,358 164,366 135,338 119,281 26,293 57,252 180,212</coordinates>
+    </community>
+    <community name="Evje og Hornnes">
+      <coordinates>128,350 116,349 111,369 123,383 97,408 110,434 150,431 168,402 196,401 199,375 189,358 164,366 135,338</coordinates>
+    </community>
+    <community name="Åmli">
+      <coordinates>242,258 287,291 311,282 335,317 309,353 333,381 327,394 281,369 269,384 251,356 196,350 208,263</coordinates>
+    </community>
+    <community name="Froland">
+      <coordinates>321,428 290,445 263,437 258,427 272,405 259,395 238,410 224,381 199,375 189,358 196,350 251,356 269,384 281,369 327,394</coordinates>
+    </community>
+    <community name="Birkenes">
+      <coordinates>219,515 184,487 205,444 180,402 196,401 199,375 224,381 238,410 259,395 272,405 258,427 263,437</coordinates>
+    </community>
+    <community name="Iveland">
+      <coordinates>184,487 156,467 150,431 168,402 180,402 205,444</coordinates>
+    </community>
+    <community name="Lillesand">
+      <coordinates>284,515 223,561 203,553 219,515 241,476</coordinates>
+    </community>
+    <community name="Grimstad">
+      <coordinates>327,475 290,445 263,437 241,476 284,515</coordinates>
+    </community>
+    <community name="Arendal">
+      <coordinates>381,420 327,475 290,445 321,428 327,394 351,418</coordinates>
+    </community>
+    <community name="Tvedestrand">
+      <coordinates>404,392 389,370 372,366 333,381 327,394 351,418 381,420</coordinates>
+    </community>
+    <community name="Vegårshei">
+      <coordinates>349,308 380,330 372,366 333,381 309,353 335,317</coordinates>
+    </community>
+    <community name="Gjerstad">
+      <coordinates>419,326 385,266 357,266 341,282 349,308 380,330 376,348</coordinates>
+    </community>
+    <community name="Risør">
+      <coordinates>450,356 404,392 389,370 372,366 376,348 419,326</coordinates>
+    </community>
+  </county>
+  <county name="Vest-Agder">
+    <coordinates>64,501 48,536 59,552 86,548</coordinates>
+    <community name="Sirdal">
+      <coordinates>196,10 94,121 51,233 88,277 108,279 100,305 135,305 134,278 172,188 200,176 235,123 255,33</coordinates>
+    </community>
+    <community name="Flekkefjord">
+      <coordinates>145,315 147,380 116,385 86,436 64,440 14,396 60,374 88,277 108,279 100,305 135,305</coordinates>
+    </community>
+    <community name="Kvinesdal">
+      <coordinates>226,178 221,243 200,252 193,298 201,345 194,412 134,436 86,436 116,385 147,380 145,315 135,305 134,278 172,188 200,176</coordinates>
+    </community>
+    <community name="Åseral">
+      <coordinates>296,158 326,172 343,219 328,251 310,251 307,274 323,292 295,323 272,331 236,303 236,269 221,243 226,178</coordinates>
+    </community>
+    <community name="Hægebostad">
+      <coordinates>234,405 261,321 236,303 236,269 221,243 200,252 193,298 201,345 194,412</coordinates>
+    </community>
+    <community name="Farsund">
+      <coordinates>50,471 76,503 124,529 151,495 125,463 139,452 134,436 86,436 64,440</coordinates>
+    </community>
+    <community name="Lyngdal">
+      <coordinates>148,542 164,517 212,477 226,425 219,407 194,412 134,436 139,452 125,463 151,495 124,529</coordinates>
+    </community>
+    <community name="Lindesnes">
+      <coordinates>254,445 268,484 210,559 148,542 164,517 212,477 223,438</coordinates>
+    </community>
+    <community name="Audnedal">
+      <coordinates>295,340 283,347 285,365 268,379 254,445 223,438 226,425 219,407 234,405 261,321 272,331 295,323</coordinates>
+    </community>
+    <community name="Mandal">
+      <coordinates>286,483 290,499 303,512 308,557 210,559 268,484</coordinates>
+    </community>
+    <community name="Marnardal">
+      <coordinates>329,358 309,392 298,393 288,425 330,464 321,491 289,491 286,483 268,484 254,445 268,379 285,365 283,347 295,340</coordinates>
+    </community>
+    <community name="Søgne">
+      <coordinates>375,531 308,557 303,512 290,499 289,491 321,491 324,480</coordinates>
+    </community>
+    <community name="Songdalen">
+      <coordinates>314,412 322,412 335,405 332,423 322,437 338,458 346,446 362,451 357,473 368,492 357,512 324,480 330,464 288,425 298,393 309,392</coordinates>
+    </community>
+    <community name="Vennesla">
+      <coordinates>335,349 357,355 352,373 380,391 376,409 383,419 402,398 410,399 414,430 386,464 369,450 362,451 346,446 338,458 322,437 332,423 335,405 322,412 314,412 309,392 329,358</coordinates>
+    </community>
+    <community name="Kristiansand">
+      <coordinates>429,439 443,461 435,518 375,531 357,512 368,492 357,473 362,451 369,450 386,464 414,430</coordinates>
+    </community>
+  </county>
+  <county name="Rogaland">
+    <coordinates>48,536 22,493 29,480 72,480 64,501</coordinates>
+    <community name="Lund">
+      <coordinates>304,438 235,454 236,506 268,495 274,521 262,551 290,536 299,502</coordinates>
+    </community>
+    <community name="Sokndal">
+      <coordinates>237,560 194,523 236,481 236,506 268,495 274,521 262,551</coordinates>
+    </community>
+    <community name="Eigersund">
+      <coordinates>143,475 171,454 192,461 227,442 273,426 304,438 235,454 236,481 194,523</coordinates>
+    </community>
+    <community name="Hå">
+      <coordinates>123,441 103,389 123,387 144,397 153,423 168,422 171,454 143,475</coordinates>
+    </community>
+    <community name="Bjerkreim">
+      <coordinates>175,399 195,402 205,384 219,385 229,367 248,389 295,385 310,413 273,426 227,442 192,461 171,454 168,422</coordinates>
+    </community>
+    <community name="Gjesdal">
+      <coordinates>315,346 307,337 329,311 310,310 278,337 237,347 219,339 163,364 175,399 195,402 205,384 219,385 229,367 248,389 295,385</coordinates>
+    </community>
+    <community name="Time">
+      <coordinates>145,355 163,364 175,399 168,422 153,423 144,397 123,387</coordinates>
+    </community>
+    <community name="Klepp">
+      <coordinates>127,342 122,346 98,331 103,389 123,387 145,355</coordinates>
+    </community>
+    <community name="Sola">
+      <coordinates>142,290 94,288 98,331 122,346 127,342 147,320</coordinates>
+    </community>
+    <community name="Sandnes">
+      <coordinates>157,324 166,296 185,291 219,339 163,364 127,342 147,320</coordinates>
+    </community>
+    <community name="Stavanger">
+      <coordinates>148,277 166,296 157,324 147,320 142,290</coordinates>
+    </community>
+    <community name="Randaberg">
+      <coordinates>148,265 121,259 94,288 142,290 148,277</coordinates>
+    </community>
+    <community name="Kvitsøy">
+      <coordinates>117,229 73,241 94,288 121,259</coordinates>
+    </community>
+    <community name="Rennesøy">
+      <coordinates>149,221 193,248 175,271 148,265 121,259 117,229</coordinates>
+    </community>
+    <community name="Strand">
+      <coordinates>239,242 236,270 248,280 226,307 194,305 185,291 175,271 193,248</coordinates>
+    </community>
+    <community name="Forsand">
+      <coordinates>339,243 388,246 379,271 329,311 310,310 278,337 237,347 219,339 194,305 226,307 248,280 307,270</coordinates>
+    </community>
+    <community name="Hjelmeland">
+      <coordinates>391,174 293,167 216,199 212,245 239,242 236,270 248,280 307,270 339,243 372,244</coordinates>
+    </community>
+    <community name="Finnøy">
+      <coordinates>210,177 167,193 164,230 193,248 212,245 216,199 240,189</coordinates>
+    </community>
+    <community name="Suldal">
+      <coordinates>206,127 264,121 264,85 301,93 365,57 446,34 459,78 391,174 293,167 240,189 210,177</coordinates>
+    </community>
+    <community name="Sauda">
+      <coordinates>372,5 336,2 297,18 264,85 301,93 365,57</coordinates>
+    </community>
+    <community name="Vindafjord">
+      <coordinates>222,68 173,70 132,94 140,116 170,116 174,135 206,127 264,121 264,85</coordinates>
+    </community>
+    <community name="Tysvær">
+      <coordinates>121,99 109,123 118,180 167,193 210,177 206,127 174,135 170,116 140,116 132,94</coordinates>
+    </community>
+    <community name="Haugesund">
+      <coordinates>89,86 121,99 109,123 98,135 84,120</coordinates>
+    </community>
+    <community name="Karmøy">
+      <coordinates>101,187 88,223 64,223 51,204 84,120 98,135 109,123 118,180</coordinates>
+    </community>
+    <community name="Bokn">
+      <coordinates>114,221 141,201 118,180 101,187 93,210</coordinates>
+    </community>
+    <community name="Utsira">
+      <coordinates>9,162 21,173 43,155 31,138 18,138</coordinates>
+    </community>
+  </county>
+  <county name="Hordaland">
+    <coordinates>81,466 86,444 57,425 28,427 29,480 72,480</coordinates>
+    <community name="Ulvik">
+      <coordinates>357,159 331,190 314,230 327,238 355,225 382,225 385,209 458,237 449,204</coordinates>
+    </community>
+    <community name="Eidfjord">
+      <coordinates>335,258 352,261 342,277 362,278 377,308 366,312 373,346 409,362 445,305 458,237 385,209 382,225 355,225 327,238</coordinates>
+    </community>
+    <community name="Ullensvang">
+      <coordinates>399,386 376,393 348,377 344,357 325,350 296,324 273,324 301,252 327,238 335,258 352,261 342,277 362,278 377,308 366,312 373,346 409,362</coordinates>
+    </community>
+    <community name="Odda">
+      <coordinates>352,423 350,443 276,471 266,463 278,428 256,423 252,391 232,365 257,339 261,311 273,324 296,324 325,350 344,357 348,377 376,393</coordinates>
+    </community>
+    <community name="Jondal">
+      <coordinates>194,304 274,244 288,242 301,252 273,324 261,311</coordinates>
+    </community>
+    <community name="Kvinnherad">
+      <coordinates>216,397 194,408 195,429 184,439 117,447 142,343 153,346 194,304 261,311 257,339 232,365</coordinates>
+    </community>
+    <community name="Etne">
+      <coordinates>221,438 195,492 152,480 117,447 184,439 195,429 194,408 216,397 232,365 252,391 256,423</coordinates>
+    </community>
+    <community name="Sveio">
+      <coordinates>94,492 106,426 21,490 54,508 80,505</coordinates>
+    </community>
+    <community name="Bømlo">
+      <coordinates>52,362 29,362 21,490 82,443</coordinates>
+    </community>
+    <community name="Stord">
+      <coordinates>78,400 101,375 111,388 121,396 106,426 82,443 70,409</coordinates>
+    </community>
+    <community name="Fitjar">
+      <coordinates>81,351 101,375 70,409 52,362</coordinates>
+    </community>
+    <community name="Tysnes">
+      <coordinates>87,319 138,322 142,343 129,399 121,396 101,375 81,351</coordinates>
+    </community>
+    <community name="Fusa">
+      <coordinates>189,275 183,264 158,255 139,266 114,320 138,322 142,343 153,346 194,304</coordinates>
+    </community>
+    <community name="Kvam">
+      <coordinates>276,231 239,207 202,208 183,264 189,275 194,304 274,244</coordinates>
+    </community>
+    <community name="Granvin">
+      <coordinates>304,183 276,231 274,244 288,242 301,252 327,238 314,230 331,190</coordinates>
+    </community>
+    <community name="Voss">
+      <coordinates>356,126 323,89 276,88 260,123 200,141 187,167 216,207 239,207 276,231 304,183 331,190 357,159</coordinates>
+    </community>
+    <community name="Vaksdal">
+      <coordinates>248,91 206,119 193,117 158,143 152,193 165,222 190,205 202,208 216,207 187,167 200,141 260,123 269,103</coordinates>
+    </community>
+    <community name="Semnanger">
+      <coordinates>152,224 132,242 139,266 158,255 183,264 202,208 190,205 165,222</coordinates>
+    </community>
+    <community name="Os">
+      <coordinates>77,292 87,319 114,320 139,266 134,252</coordinates>
+    </community>
+    <community name="Austevoll">
+      <coordinates>31,298 29,362 52,362 81,351 87,319 77,292</coordinates>
+    </community>
+    <community name="Bergen">
+      <coordinates>127,222 102,188 87,198 90,224 73,234 77,292 134,252 132,242 152,224</coordinates>
+    </community>
+    <community name="Osterøy">
+      <coordinates>156,157 102,188 127,222 152,224 165,222 152,193</coordinates>
+    </community>
+    <community name="Modalen">
+      <coordinates>234,50 206,50 160,128 166,136 193,117 206,119 248,91</coordinates>
+    </community>
+    <community name="Masfjorden">
+      <coordinates>77,84 120,140 135,135 136,119 145,113 174,104 206,50 109,64</coordinates>
+    </community>
+    <community name="Lindås">
+      <coordinates>68,116 77,84 120,140 135,135 136,119 145,113 174,104 160,128 166,136 158,143 156,157 102,188</coordinates>
+    </community>
+    <community name="Sund">
+      <coordinates>29,245 31,298 77,292 75,261</coordinates>
+    </community>
+    <community name="Fjell">
+      <coordinates>53,214 27,218 29,245 75,261 73,234</coordinates>
+    </community>
+    <community name="Askøy">
+      <coordinates>59,181 53,214 73,234 90,224 87,198</coordinates>
+    </community>
+    <community name="Øygarden">
+      <coordinates>32,125 17,126 27,218 53,214 59,181</coordinates>
+    </community>
+    <community name="Meland">
+      <coordinates>44,149 90,165 102,188 87,198 59,181</coordinates>
+    </community>
+    <community name="Radøy">
+      <coordinates>68,116 32,125 44,149 90,165</coordinates>
+    </community>
+    <community name="Austrheim">
+      <coordinates>35,79 77,84 68,116 32,125</coordinates>
+    </community>
+    <community name="Fedje">
+      <coordinates>10,61 17,126 32,125 35,79</coordinates>
+    </community>
+  </county>
+  <county name="Buskerud">
+    <coordinates>147,470 99,429 86,444 81,466 110,468 124,497 138,488 140,475</coordinates>
+    <community name="Hemsedal">
+      <coordinates>156,35 229,99 202,133 112,86</coordinates>
+    </community>
+    <community name="Gol">
+      <coordinates>290,153 249,172 239,164 218,170 202,133 229,99</coordinates>
+    </community>
+    <community name="Ål">
+      <coordinates>157,170 75,93 90,76 112,86 202,133 218,170 192,204 148,212 144,201</coordinates>
+    </community>
+    <community name="Hol">
+      <coordinates>59,127 49,124 22,143 48,157 48,178 58,188 48,222 107,244 173,233 176,219 164,209 148,212 144,201 157,170 75,93</coordinates>
+    </community>
+    <community name="Nes">
+      <coordinates>247,246 295,198 290,153 249,172 239,164 218,170 192,204</coordinates>
+    </community>
+    <community name="Nore og Uvdal">
+      <coordinates>11,304 48,222 107,244 173,233 176,219 164,209 192,204 247,246 255,314 237,334 221,331 189,299 102,290 57,308</coordinates>
+    </community>
+    <community name="Flå">
+      <coordinates>320,209 350,233 343,271 294,275 247,246 295,198</coordinates>
+    </community>
+    <community name="Rollag">
+      <coordinates>245,391 288,363 255,314 237,334 221,331 221,358</coordinates>
+    </community>
+    <community name="Sigdal">
+      <coordinates>321,390 343,370 331,341 297,312 294,275 247,246 255,314 288,363</coordinates>
+    </community>
+    <community name="Krødsherad">
+      <coordinates>336,303 352,316 350,327 331,341 297,312 294,275 330,273</coordinates>
+    </community>
+    <community name="Ringerike">
+      <coordinates>351,200 383,184 418,300 452,329 435,367 400,326 371,355 362,320 352,316 336,303 330,273 343,271 350,233</coordinates>
+    </community>
+    <community name="Hole">
+      <coordinates>412,383 371,355 400,326 435,367</coordinates>
+    </community>
+    <community name="Modum">
+      <coordinates>369,404 321,390 343,370 331,341 350,327 352,316 362,320 371,355 403,377 379,384</coordinates>
+    </community>
+    <community name="Flesberg">
+      <coordinates>245,407 303,441 321,437 321,390 288,363 245,391</coordinates>
+    </community>
+    <community name="Kongsberg">
+      <coordinates>263,445 299,530 361,517 310,440 303,441 265,419</coordinates>
+    </community>
+    <community name="Øvre Eiker">
+      <coordinates>356,462 351,431 369,404 321,390 321,437 310,440 341,486</coordinates>
+    </community>
+    <community name="Nedre Eiker">
+      <coordinates>356,462 368,455 375,420 369,404 351,431</coordinates>
+    </community>
+    <community name="Lier">
+      <coordinates>416,396 403,455 375,420 369,404 379,384 403,377 412,383</coordinates>
+    </community>
+    <community name="Drammen">
+      <coordinates>364,469 356,462 368,455 375,420 403,455 401,464</coordinates>
+    </community>
+    <community name="Røyken">
+      <coordinates>439,432 437,456 422,463 403,455 409,426</coordinates>
+    </community>
+    <community name="Hurum">
+      <coordinates>410,508 435,520 447,488 446,466 437,456 422,463 412,459</coordinates>
+    </community>
+  </county>
+  <county name="Sogn og Fjordane">
+    <coordinates>99,429 103,410 87,388 53,384 47,372 30,397 28,427 57,425 86,444</coordinates>
+    <community name="Lærdal">
+      <coordinates>424,366 392,389 355,378 353,370 298,382 299,396 332,404 336,419 378,461 395,445 417,452 453,418</coordinates>
+    </community>
+    <community name="Årdal">
+      <coordinates>444,318 411,307 382,308 381,326 361,330 346,362 353,370 355,378 392,389 424,366 453,340</coordinates>
+    </community>
+    <community name="Luster">
+      <coordinates>367,200 285,258 290,304 345,371 353,370 346,362 361,330 381,326 382,308 411,307 444,318 464,320 464,291 435,285 426,239 383,224</coordinates>
+    </community>
+    <community name="Aurland">
+      <coordinates>373,488 335,501 277,483 249,439 267,406 299,396 332,404 336,419 378,461</coordinates>
+    </community>
+    <community name="Vik">
+      <coordinates>181,426 192,361 223,376 250,359 283,370 299,396 267,406 249,439</coordinates>
+    </community>
+    <community name="Høyanger">
+      <coordinates>122,402 121,364 102,364 109,333 127,338 145,326 195,323 221,324 226,339 201,342 192,361 185,404</coordinates>
+    </community>
+    <community name="Gulen">
+      <coordinates>54,427 1,399 1,379 62,351 102,364 121,364 122,402 76,408</coordinates>
+    </community>
+    <community name="Hyllestad">
+      <coordinates>53,314 88,310 109,333 102,364 62,351</coordinates>
+    </community>
+    <community name="Solund">
+      <coordinates>3,312 1,379 62,351 53,314</coordinates>
+    </community>
+    <community name="Sogndal">
+      <coordinates>277,328 294,341 283,370 299,396 298,382 345,371 290,304</coordinates>
+    </community>
+    <community name="Leikanger">
+      <coordinates>263,325 246,348 250,359 283,370 294,341 277,328</coordinates>
+    </community>
+    <community name="Balestrand">
+      <coordinates>260,292 221,324 226,339 201,342 192,361 223,376 250,359 246,348 263,325 277,328 290,304 285,258</coordinates>
+    </community>
+    <community name="Stryn">
+      <coordinates>369,158 232,168 232,199 267,208 281,202 288,210 279,220 292,253 367,200</coordinates>
+    </community>
+    <community name="Hornindal">
+      <coordinates>286,131 242,144 232,168 308,161</coordinates>
+    </community>
+    <community name="Eid">
+      <coordinates>149,143 140,152 166,164 178,177 203,178 215,185 232,185 232,168 242,144</coordinates>
+    </community>
+    <community name="Gaular">
+      <coordinates>220,297 168,298 163,285 114,277 114,288 128,291 145,326 221,324 231,314</coordinates>
+    </community>
+    <community name="Fjaler">
+      <coordinates>53,299 114,288 128,291 145,326 127,338 109,333 88,310 53,314</coordinates>
+    </community>
+    <community name="Askvoll">
+      <coordinates>128,272 55,256 7,283 3,312 53,314 53,299 114,288 114,277 131,279</coordinates>
+    </community>
+    <community name="Førde">
+      <coordinates>188,282 181,276 213,250 128,272 131,279 163,285 168,298 220,297 231,314 268,281</coordinates>
+    </community>
+    <community name="Jølster">
+      <coordinates>261,242 213,250 181,276 188,282 268,281 285,258 292,253 282,226</coordinates>
+    </community>
+    <community name="Gloppen">
+      <coordinates>183,189 174,203 155,203 157,215 147,237 157,242 189,233 227,236 230,246 261,242 282,226 279,220 288,210 281,202 267,208 232,199 232,185 215,185 203,178 178,177</coordinates>
+    </community>
+    <community name="Naustdal">
+      <coordinates>132,256 55,256 128,272 230,246 227,236 200,234 189,233 157,242</coordinates>
+    </community>
+    <community name="Flora">
+      <coordinates>143,195 114,203 108,212 45,191 30,241 55,256 132,256 157,242 147,237 157,215 155,203</coordinates>
+    </community>
+    <community name="Bremanger">
+      <coordinates>112,157 62,139 45,191 108,212 114,203 143,195 155,203 174,203 183,189 178,177 166,164 140,152</coordinates>
+    </community>
+    <community name="Vågsøy">
+      <coordinates>132,135 119,145 83,105 62,139 112,157 140,152 149,143</coordinates>
+    </community>
+    <community name="Selje">
+      <coordinates>148,117 118,57 83,105 119,145 132,135 149,143</coordinates>
+    </community>
+  </county>
+  <county name="Oppland">
+    <coordinates>157,454 146,436 148,407 132,384 104,377 87,388 103,410 99,429 147,470 149,458</coordinates>
+    <community name="Skjåk">
+      <coordinates>40,59 84,40 107,48 119,85 169,95 151,107 160,121 84,161 82,149 42,147 33,80</coordinates>
+    </community>
+    <community name="Lesja">
+      <coordinates>216,95 257,41 246,20 210,10 138,9 107,48 119,85 169,95</coordinates>
+    </community>
+    <community name="Dovre">
+      <coordinates>250,132 281,118 290,128 310,130 320,93 289,68 310,41 246,20 257,41 216,95</coordinates>
+    </community>
+    <community name="Lom">
+      <coordinates>86,193 147,235 161,215 154,194 193,184 203,147 201,95 169,95 151,107 160,121 84,161</coordinates>
+    </community>
+    <community name="Vågå">
+      <coordinates>258,148 222,159 218,195 228,207 216,217 199,214 191,226 221,230 209,247 179,230 172,240 147,235 161,215 154,194 193,184 203,147 201,95 216,95 250,132 246,139</coordinates>
+    </community>
+    <community name="Sel">
+      <coordinates>331,128 315,148 295,148 267,186 252,186 228,207 218,195 222,159 258,148 246,139 250,132 281,118 290,128 310,130</coordinates>
+    </community>
+    <community name="Vang">
+      <coordinates>179,265 169,269 184,289 180,303 173,302 157,318 166,329 152,346 96,298 86,270 110,251 104,225 125,220 147,235 172,240</coordinates>
+    </community>
+    <community name="Vestre Slidre">
+      <coordinates>176,363 195,337 214,330 184,289 180,303 173,302 157,318 166,329 152,346</coordinates>
+    </community>
+    <community name="Øystre Slidre">
+      <coordinates>252,284 209,247 179,230 172,240 179,265 169,269 214,330 241,316</coordinates>
+    </community>
+    <community name="Nord-Aurdal">
+      <coordinates>217,395 237,371 252,375 254,344 243,327 262,317 276,318 252,284 241,316 214,330 195,337 176,363</coordinates>
+    </community>
+    <community name="Etnedal">
+      <coordinates>281,389 283,328 276,318 262,317 243,327 254,344 252,375</coordinates>
+    </community>
+    <community name="Nord-Fron">
+      <coordinates>278,232 254,226 228,263 209,247 221,230 191,226 193,221 199,214 216,217 252,186 267,186 295,148 315,148 322,141 324,154 313,168 306,199</coordinates>
+    </community>
+    <community name="Sør-Fron">
+      <coordinates>342,139 324,176 317,186 326,211 309,254 266,245 239,273 228,263 254,226 278,232 306,199 313,168 324,154 322,141 331,128</coordinates>
+    </community>
+    <community name="Gausdal">
+      <coordinates>328,323 354,292 336,262 309,254 266,245 239,273 252,284 269,306</coordinates>
+    </community>
+    <community name="Ringebu">
+      <coordinates>365,190 386,175 398,233 375,254 336,262 309,254 326,211 317,186 328,168</coordinates>
+    </community>
+    <community name="Øyer">
+      <coordinates>411,291 362,305 354,292 336,262 375,254 398,233</coordinates>
+    </community>
+    <community name="Lillehammer">
+      <coordinates>334,343 363,343 411,291 362,305 354,292 328,323 315,320 314,325</coordinates>
+    </community>
+    <community name="Nordre Land">
+      <coordinates>328,363 335,380 325,398 303,408 295,402 287,409 279,401 281,389 283,328 269,306 315,320 314,325 334,343</coordinates>
+    </community>
+    <community name="Gjøvik">
+      <coordinates>381,361 390,406 362,418 344,397 349,387 335,380 328,363 334,343 363,343</coordinates>
+    </community>
+    <community name="Sør-Aurdal">
+      <coordinates>234,453 277,473 283,445 304,433 303,408 295,402 287,409 279,401 281,389 252,375 237,371 217,395</coordinates>
+    </community>
+    <community name="Søndre Land">
+      <coordinates>314,457 360,453 362,418 344,397 349,387 335,380 325,398 303,408 304,433</coordinates>
+    </community>
+    <community name="Vestre Toten">
+      <coordinates>375,470 383,468 390,406 362,418 360,453</coordinates>
+    </community>
+    <community name="Østre Toten">
+      <coordinates>435,443 428,470 407,481 383,468 390,406</coordinates>
+    </community>
+    <community name="Gran">
+      <coordinates>319,492 342,512 396,517 408,506 395,490 378,486 383,468 375,470 360,453 314,457</coordinates>
+    </community>
+    <community name="Jevnaker">
+      <coordinates>357,548 350,514 342,512 319,492 330,533</coordinates>
+    </community>
+    <community name="Lunner">
+      <coordinates>386,553 364,557 357,548 350,514 396,517</coordinates>
+    </community>
+  </county>
+  <county name="Hedmark">
+    <coordinates>132,384 142,367 161,368 182,386 189,424 183,477 170,488 157,454 146,436 148,407</coordinates>
+    <community name="Folldal">
+      <coordinates>129,49 79,94 106,121 99,152 116,158 155,94</coordinates>
+    </community>
+    <community name="Tynset">
+      <coordinates>139,1 193,7 189,23 165,36 198,73 209,73 213,98 227,102 206,115 204,134 196,137 182,98 147,80 129,49 125,27</coordinates>
+    </community>
+    <community name="Tolga">
+      <coordinates>225,59 241,62 244,77 273,108 255,116 227,102 213,98 209,73 198,73 165,36 189,23</coordinates>
+    </community>
+    <community name="Os">
+      <coordinates>227,13 263,67 289,72 283,114 273,108 244,77 241,62 225,59 189,23 193,7 208,3</coordinates>
+    </community>
+    <community name="Engerdal">
+      <coordinates>328,85 310,198 322,217 296,221 287,205 279,226 262,191 274,165 255,116 273,108 283,114 289,72</coordinates>
+    </community>
+    <community name="Alvdal">
+      <coordinates>141,154 150,144 164,144 167,153 200,145 196,137 182,98 147,80 155,94 127,140</coordinates>
+    </community>
+    <community name="Rendalen">
+      <coordinates>188,189 202,186 214,227 226,257 273,241 279,226 262,191 274,165 255,116 227,102 206,115 204,134 196,137 200,145 167,153 164,144 156,145 162,162</coordinates>
+    </community>
+    <community name="Stor-Elvdal">
+      <coordinates>117,183 147,199 165,192 183,282 230,295 233,280 226,257 202,186 188,189 162,162 156,145 150,144 141,154 127,140 116,158 128,159</coordinates>
+    </community>
+    <community name="Trysil">
+      <coordinates>350,234 375,274 355,333 313,338 298,324 284,327 267,299 284,288 273,241 279,226 287,205 296,221 322,217 334,232</coordinates>
+    </community>
+    <community name="Åmot">
+      <coordinates>224,335 195,286 230,295 233,280 226,257 273,241 284,288 267,299</coordinates>
+    </community>
+    <community name="Ringsaker">
+      <coordinates>144,321 182,386 204,361 195,286 183,282</coordinates>
+    </community>
+    <community name="Hamar">
+      <coordinates>215,377 217,324 195,286 204,361 182,386</coordinates>
+    </community>
+    <community name="Løten">
+      <coordinates>251,401 251,385 224,335 217,324 215,377</coordinates>
+    </community>
+    <community name="Elverum">
+      <coordinates>301,353 290,349 270,383 251,385 224,335 267,299 284,327 298,324 305,330</coordinates>
+    </community>
+    <community name="Stange">
+      <coordinates>219,442 253,420 251,401 215,377 182,386</coordinates>
+    </community>
+    <community name="Våler">
+      <coordinates>323,370 307,371 278,402 280,414 263,424 253,420 251,385 270,383 290,349 301,353 305,330</coordinates>
+    </community>
+    <community name="Åsnes">
+      <coordinates>344,434 293,428 263,440 253,420 263,424 280,414 278,402 307,371 323,370</coordinates>
+    </community>
+    <community name="Nord-Odal">
+      <coordinates>236,476 268,463 263,440 253,420 219,442</coordinates>
+    </community>
+    <community name="Sør-Odal">
+      <coordinates>243,506 262,525 274,520 268,463 236,476</coordinates>
+    </community>
+    <community name="Grue">
+      <coordinates>333,473 268,463 263,440 293,428 344,434 344,457</coordinates>
+    </community>
+    <community name="Kongsvinger">
+      <coordinates>336,499 317,539 306,509 274,520 268,463 333,473</coordinates>
+    </community>
+    <community name="Eidskog">
+      <coordinates>262,563 262,525 306,509 317,539 296,558</coordinates>
+    </community>
+  </county>
+  <county name="Møre og Romsdal">
+    <coordinates>47,372 107,325 131,352 121,381 104,377 87,388 53,384</coordinates>
+    <community name="Sunndal">
+      <coordinates>411,311 379,293 379,273 360,263 354,269 358,285 348,284 332,299 338,315 329,336 340,337 379,387 408,397 434,383 441,347</coordinates>
+    </community>
+    <community name="Surnadal">
+      <coordinates>458,294 425,212 407,210 342,229 360,263 379,273 379,293 411,311</coordinates>
+    </community>
+    <community name="Rindal">
+      <coordinates>463,196 464,293 458,294 425,212</coordinates>
+    </community>
+    <community name="Nesset">
+      <coordinates>326,268 290,269 272,291 292,321 314,331 305,363 322,394 379,387 340,337 329,336 338,315 332,299 348,284</coordinates>
+    </community>
+    <community name="Rauma">
+      <coordinates>289,432 264,425 256,405 277,380 260,361 231,371 218,312 272,291 292,321 314,331 305,363 322,394</coordinates>
+    </community>
+    <community name="Molde">
+      <coordinates>286,259 266,267 249,265 197,283 218,312 272,291 290,269</coordinates>
+    </community>
+    <community name="Tingvoll">
+      <coordinates>332,201 308,201 309,229 327,251 326,268 348,284 358,285 354,269 360,263 342,229</coordinates>
+    </community>
+    <community name="Halsa">
+      <coordinates>405,194 412,209 407,210 342,229 332,201</coordinates>
+    </community>
+    <community name="Aure">
+      <coordinates>356,150 408,132 423,156 416,187 405,194 367,198</coordinates>
+    </community>
+    <community name="Tustna">
+      <coordinates>295,176 356,150 367,198 332,201 308,201</coordinates>
+    </community>
+    <community name="Smøla">
+      <coordinates>276,143 335,77 369,145 356,150 295,176</coordinates>
+    </community>
+    <community name="Frei">
+      <coordinates>287,228 271,199 308,201 309,229</coordinates>
+    </community>
+    <community name="Gjemnes">
+      <coordinates>271,241 271,251 244,259 249,265 266,267 286,259 290,269 326,268 327,251 309,229 287,228</coordinates>
+    </community>
+    <community name="Kristiansund">
+      <coordinates>249,172 276,143 295,176 308,201 271,199</coordinates>
+    </community>
+    <community name="Eide">
+      <coordinates>257,241 236,220 237,259 244,259 271,251 271,241</coordinates>
+    </community>
+    <community name="Averøy">
+      <coordinates>271,199 236,220 257,241 271,241 287,228</coordinates>
+    </community>
+    <community name="Fræna">
+      <coordinates>187,222 201,258 197,283 249,265 244,259 237,259 236,220</coordinates>
+    </community>
+    <community name="Aukra">
+      <coordinates>163,254 168,272 197,283 201,258 192,234</coordinates>
+    </community>
+    <community name="Norddal">
+      <coordinates>224,443 206,421 194,422 186,405 191,394 231,371 260,361 277,380 256,405 264,425 248,447</coordinates>
+    </community>
+    <community name="Stranda">
+      <coordinates>174,357 151,400 156,420 144,426 146,461 215,460 224,443 206,421 194,422 186,405 191,394</coordinates>
+    </community>
+    <community name="Stordal">
+      <coordinates>181,351 200,357 225,343 231,371 191,394 174,357</coordinates>
+    </community>
+    <community name="Vestnes">
+      <coordinates>162,301 179,327 206,353 225,343 218,312 197,283</coordinates>
+    </community>
+    <community name="Ørskog">
+      <coordinates>161,342 179,327 206,353 200,357 181,351 174,357</coordinates>
+    </community>
+    <community name="Ørsta">
+      <coordinates>111,353 68,388 122,444 144,440 144,426 156,420 151,400</coordinates>
+    </community>
+    <community name="Sykkylven">
+      <coordinates>161,342 111,353 151,400 174,357</coordinates>
+    </community>
+    <community name="Volda">
+      <coordinates>68,388 55,393 35,444 101,460 122,444</coordinates>
+    </community>
+    <community name="Vanylven">
+      <coordinates>0,402 0,446 35,444 55,393</coordinates>
+    </community>
+    <community name="Sande">
+      <coordinates>25,362 0,362 0,402 55,393</coordinates>
+    </community>
+    <community name="Skodje">
+      <coordinates>127,326 141,345 161,342 179,327 172,317</coordinates>
+    </community>
+    <community name="Haram">
+      <coordinates>136,297 114,275 89,292 102,323 127,326 172,317 162,301</coordinates>
+    </community>
+    <community name="Midsund">
+      <coordinates>168,272 136,297 162,301 197,283</coordinates>
+    </community>
+    <community name="Sandøy">
+      <coordinates>150,241 114,275 136,297 168,272 163,254</coordinates>
+    </community>
+    <community name="Ålesund">
+      <coordinates>85,333 105,340 111,353 141,345 127,326 102,323</coordinates>
+    </community>
+    <community name="Sula">
+      <coordinates>77,336 85,333 105,340 111,353 95,366</coordinates>
+    </community>
+    <community name="Giske">
+      <coordinates>53,319 89,292 102,323 77,336</coordinates>
+    </community>
+    <community name="Hareid">
+      <coordinates>77,336 55,393 68,388 95,366</coordinates>
+    </community>
+    <community name="Ulstein">
+      <coordinates>62,326 44,351 55,393 77,336</coordinates>
+    </community>
+    <community name="Herøy">
+      <coordinates>53,319 0,362 25,362 55,393 44,351 62,326</coordinates>
+    </community>
+  </county>
+  <county name="Sør-Trøndelag">
+    <coordinates>146,289 162,306 145,333 180,349 182,386 161,368 142,367 132,384 121,381 131,352 107,325</coordinates>
+    <community name="Røros">
+      <coordinates>424,444 390,422 321,459 357,523 419,543 434,534 416,472</coordinates>
+    </community>
+    <community name="Tydal">
+      <coordinates>421,348 379,343 338,383 390,422 424,444 421,409 436,389</coordinates>
+    </community>
+    <community name="Selbu">
+      <coordinates>364,312 315,306 297,314 286,312 285,343 307,367 327,369 332,380 338,383 379,343</coordinates>
+    </community>
+    <community name="Holtålen">
+      <coordinates>288,451 312,368 327,369 332,380 390,422 321,459</coordinates>
+    </community>
+    <community name="Midtre Gauldal">
+      <coordinates>279,458 236,445 211,384 215,370 288,348 307,367 312,368 288,451</coordinates>
+    </community>
+    <community name="Oppdal">
+      <coordinates>212,501 162,539 101,509 124,467 89,426 150,411 195,439</coordinates>
+    </community>
+    <community name="Rennebu">
+      <coordinates>154,400 188,378 211,384 236,445 222,446 205,474 195,439 150,411</coordinates>
+    </community>
+    <community name="Meldal">
+      <coordinates>203,343 168,330 158,331 154,400 188,378 211,384 215,370</coordinates>
+    </community>
+    <community name="Malvik">
+      <coordinates>304,282 279,277 286,312 297,314 315,306</coordinates>
+    </community>
+    <community name="Melhus">
+      <coordinates>254,320 255,309 241,304 228,328 203,343 215,370 288,348 285,343</coordinates>
+    </community>
+    <community name="Klæbu">
+      <coordinates>286,312 262,302 255,309 254,320 285,343</coordinates>
+    </community>
+    <community name="Trondheim">
+      <coordinates>217,292 232,271 279,277 286,312 262,302 255,309 241,304</coordinates>
+    </community>
+    <community name="Skaun">
+      <coordinates>217,292 205,302 203,343 228,328 241,304</coordinates>
+    </community>
+    <community name="Orkdal">
+      <coordinates>151,324 153,310 190,283 215,277 217,292 205,302 203,343 168,330 158,331</coordinates>
+    </community>
+    <community name="Hemne">
+      <coordinates>132,339 92,338 92,320 97,270 127,260 153,310 151,324 138,325</coordinates>
+    </community>
+    <community name="Snillfjord">
+      <coordinates>160,245 190,283 153,310 127,260</coordinates>
+    </community>
+    <community name="Agdenes">
+      <coordinates>200,225 160,245 190,283 215,277</coordinates>
+    </community>
+    <community name="Rissa">
+      <coordinates>245,198 200,225 215,277 232,271 239,259 236,247 269,215 263,187 250,188</coordinates>
+    </community>
+    <community name="Åfjord">
+      <coordinates>317,135 228,135 216,171 250,188 263,187 269,215</coordinates>
+    </community>
+    <community name="Roan">
+      <coordinates>305,120 291,120 264,93 228,135 317,135</coordinates>
+    </community>
+    <community name="Osen">
+      <coordinates>320,115 325,95 287,60 264,93 291,120 305,120</coordinates>
+    </community>
+    <community name="Hitra">
+      <coordinates>59,281 37,237 135,207 160,245 127,260 97,270</coordinates>
+    </community>
+    <community name="Frøya">
+      <coordinates>111,170 59,186 51,233 135,207</coordinates>
+    </community>
+    <community name="Ørland">
+      <coordinates>191,207 144,221 160,245 209,219</coordinates>
+    </community>
+    <community name="Bjugn">
+      <coordinates>161,174 161,201 191,207 209,219 245,198 250,188 216,171</coordinates>
+    </community>
+  </county>
+  <county name="Nord-Trøndelag">
+    <coordinates>165,259 186,275 222,270 211,293 219,308 214,317 194,317 180,349 145,333 162,306 146,289</coordinates>
+    <community name="Lierne">
+      <coordinates>397,355 327,336 329,295 316,262 317,246 333,228 348,198 396,180 369,231 413,257 415,312</coordinates>
+    </community>
+    <community name="Røyrvik">
+      <coordinates>434,113 372,117 352,132 326,192 314,193 317,246 333,228 348,198 396,180</coordinates>
+    </community>
+    <community name="Snåsa">
+      <coordinates>275,360 248,360 226,339 216,314 210,285 316,262 329,295 327,336</coordinates>
+    </community>
+    <community name="Verdal">
+      <coordinates>225,440 190,426 181,436 149,388 187,371 248,360 275,360</coordinates>
+    </community>
+    <community name="Meråker">
+      <coordinates>230,463 205,506 212,526 168,523 153,491 161,460 181,436 190,426 225,440</coordinates>
+    </community>
+    <community name="Stjørdal">
+      <coordinates>94,487 87,443 119,437 181,436 161,460 153,491</coordinates>
+    </community>
+    <community name="Frosta">
+      <coordinates>104,411 73,430 87,443 111,437</coordinates>
+    </community>
+    <community name="Levanger">
+      <coordinates>149,388 104,411 111,437 181,436</coordinates>
+    </community>
+    <community name="Namsskogan">
+      <coordinates>320,116 271,171 272,199 317,246 314,193 326,192 352,132 372,117</coordinates>
+    </community>
+    <community name="Grong">
+      <coordinates>228,247 231,281 316,262 317,246 272,199 258,224</coordinates>
+    </community>
+    <community name="Høylandet">
+      <coordinates>222,206 237,194 237,180 253,156 274,143 290,150 271,171 272,199 258,224 228,247</coordinates>
+    </community>
+    <community name="Overhalla">
+      <coordinates>194,289 183,280 179,239 206,229 206,215 222,206 228,247 231,281 210,285</coordinates>
+    </community>
+    <community name="Steinkjer">
+      <coordinates>154,371 154,353 150,325 138,318 194,289 210,285 216,314 226,339 248,360 187,371 169,379</coordinates>
+    </community>
+    <community name="Leksvik">
+      <coordinates>100,396 85,386 63,396 28,428 39,452 73,430 104,411</coordinates>
+    </community>
+    <community name="Mosvik">
+      <coordinates>91,375 114,362 130,383 104,411 100,396 85,386</coordinates>
+    </community>
+    <community name="Inderøy">
+      <coordinates>153,343 114,362 130,383 149,388 169,379 154,371</coordinates>
+    </community>
+    <community name="Verran">
+      <coordinates>101,324 138,318 150,325 153,343 91,375 85,386 63,396</coordinates>
+    </community>
+    <community name="Namdalseid">
+      <coordinates>97,305 114,297 128,269 129,231 138,230 150,272 174,299 138,318 101,324</coordinates>
+    </community>
+    <community name="Namsos">
+      <coordinates>179,213 165,226 135,201 127,211 138,230 150,272 174,299 194,289 183,280 179,239 206,229 206,215</coordinates>
+    </community>
+    <community name="Flatanger">
+      <coordinates>67,241 114,297 128,269 129,231 138,230 127,211</coordinates>
+    </community>
+    <community name="Fosnes">
+      <coordinates>221,177 237,180 237,194 222,206 206,215 179,213 165,226 135,201</coordinates>
+    </community>
+    <community name="Nærøy">
+      <coordinates>248,140 218,120 159,144 135,201 221,177 237,180 253,156 274,143</coordinates>
+    </community>
+    <community name="Vikna">
+      <coordinates>115,118 92,164 141,187 159,144</coordinates>
+    </community>
+    <community name="Leka">
+      <coordinates>219,103 144,83 136,104 179,135 218,120</coordinates>
+    </community>
+  </county>
+  <county name="Nordland">
+    <coordinates>254,97 245,130 279,131 280,151 266,151 251,177 254,195 242,224 225,231 222,270 186,275 165,259 191,203 183,174</coordinates>
+    <community name="Hattfjelldal">
+      <coordinates>240,438 189,452 197,517 191,538 226,539 238,512</coordinates>
+    </community>
+    <community name="Grane">
+      <coordinates>189,452 183,449 166,463 168,482 155,491 157,537 191,538 197,517</coordinates>
+    </community>
+    <community name="Bindal">
+      <coordinates>139,561 104,553 86,526 118,512 156,520 157,537</coordinates>
+    </community>
+    <community name="Brønnøy">
+      <coordinates>155,482 138,482 129,473 118,479 128,494 118,512 156,520</coordinates>
+    </community>
+    <community name="Sømna">
+      <coordinates>78,522 118,479 128,494 118,512 86,526</coordinates>
+    </community>
+    <community name="Vefsn">
+      <coordinates>190,398 165,420 140,425 133,444 154,464 155,482 155,491 168,482 166,463 183,449 189,452 195,450</coordinates>
+    </community>
+    <community name="Hemnes">
+      <coordinates>237,410 198,389 190,398 195,450 240,438</coordinates>
+    </community>
+    <community name="Rana">
+      <coordinates>289,349 275,347 273,324 231,330 200,351 169,379 190,398 198,389 237,410 266,403 288,384</coordinates>
+    </community>
+    <community name="Leirfjord">
+      <coordinates>138,401 130,416 153,421 165,420 190,398</coordinates>
+    </community>
+    <community name="Vevelstad">
+      <coordinates>133,444 112,467 118,479 129,473 138,482 155,482 154,464</coordinates>
+    </community>
+    <community name="Vega">
+      <coordinates>105,477 76,477 73,448 111,450</coordinates>
+    </community>
+    <community name="Alstahaug">
+      <coordinates>74,422 73,448 111,450 133,444 140,425 153,421 130,416</coordinates>
+    </community>
+    <community name="Herøy">
+      <coordinates>84,389 74,422 130,416</coordinates>
+    </community>
+    <community name="Dønna">
+      <coordinates>138,401 98,370 84,389 130,416</coordinates>
+    </community>
+    <community name="Nesna">
+      <coordinates>133,378 138,401 190,398 169,379</coordinates>
+    </community>
+    <community name="Lurøy">
+      <coordinates>164,353 137,351 114,370 133,378 169,379</coordinates>
+    </community>
+    <community name="Rødøy">
+      <coordinates>167,318 137,351 164,353 169,379 205,347</coordinates>
+    </community>
+    <community name="Træna">
+      <coordinates>113,330 92,350 114,370 137,351</coordinates>
+    </community>
+    <community name="Meløy">
+      <coordinates>178,291 167,318 205,347 231,330 204,301</coordinates>
+    </community>
+    <community name="Saltdal">
+      <coordinates>329,287 285,266 263,301 263,325 273,324 275,347 289,349</coordinates>
+    </community>
+    <community name="Beiarn">
+      <coordinates>253,281 230,273 231,330 263,325 263,301</coordinates>
+    </community>
+    <community name="Skjerstad">
+      <coordinates>254,253 230,273 253,281 263,301 285,266</coordinates>
+    </community>
+    <community name="Fauske">
+      <coordinates>330,255 295,249 283,232 273,231 254,253 285,266 329,287 335,281 336,263</coordinates>
+    </community>
+    <community name="Bodø">
+      <coordinates>270,208 243,207 215,253 230,273 254,253 273,231</coordinates>
+    </community>
+    <community name="Gildeskål">
+      <coordinates>215,253 178,291 204,301 231,330 230,273</coordinates>
+    </community>
+    <community name="Sørfold">
+      <coordinates>331,218 311,190 270,208 273,231 283,232 295,249 330,255 320,233</coordinates>
+    </community>
+    <community name="Steigen">
+      <coordinates>243,207 235,175 267,154 293,195 270,208</coordinates>
+    </community>
+    <community name="Hamarøy">
+      <coordinates>341,202 318,170 307,132 267,154 293,195 311,190 331,218</coordinates>
+    </community>
+    <community name="Tysfjord">
+      <coordinates>370,147 315,115 307,132 318,170 341,202 350,168</coordinates>
+    </community>
+    <community name="Ballangen">
+      <coordinates>342,100 366,111 375,141 370,147 315,115</coordinates>
+    </community>
+    <community name="Narvik">
+      <coordinates>406,161 419,128 415,75 379,76 366,111 375,141</coordinates>
+    </community>
+    <community name="Evenes">
+      <coordinates>344,82 342,100 366,111 379,76</coordinates>
+    </community>
+    <community name="Tjeldsund">
+      <coordinates>318,72 298,91 315,115 342,100 344,82</coordinates>
+    </community>
+    <community name="Lødingen">
+      <coordinates>290,84 255,119 307,132 315,115 298,91</coordinates>
+    </community>
+    <community name="Hadsel">
+      <coordinates>224,99 236,82 290,84 255,119</coordinates>
+    </community>
+    <community name="Sortland">
+      <coordinates>302,67 295,49 276,51 260,59 253,81 290,84</coordinates>
+    </community>
+    <community name="Bø">
+      <coordinates>220,81 231,58 260,59 253,81 236,82</coordinates>
+    </community>
+    <community name="Andøy">
+      <coordinates>325,2 287,0 276,51 295,49 302,67</coordinates>
+    </community>
+    <community name="Øksnes">
+      <coordinates>231,58 287,0 276,51 260,59</coordinates>
+    </community>
+    <community name="Vågan">
+      <coordinates>254,136 221,138 224,99 255,119</coordinates>
+    </community>
+    <community name="Vestvågøy">
+      <coordinates>197,110 165,135 166,142 213,145 221,138 222,113</coordinates>
+    </community>
+    <community name="Flakstad">
+      <coordinates>212,165 154,158 166,142 213,145</coordinates>
+    </community>
+    <community name="Moskenes">
+      <coordinates>178,186 137,183 136,163 154,158 212,165</coordinates>
+    </community>
+    <community name="Værøy">
+      <coordinates>171,214 120,206 137,183 178,186</coordinates>
+    </community>
+    <community name="Røst">
+      <coordinates>138,240 96,240 120,206 171,214</coordinates>
+    </community>
+  </county>
+  <county name="Troms">
+    <coordinates>311,49 342,81 336,105 321,98 307,137 279,131 245,130 254,97 283,62</coordinates>
+    <community name="Kvænangen">
+      <coordinates>460,223 404,135 341,128 351,173 389,205 380,233 393,253 421,246 428,260 458,250</coordinates>
+    </community>
+    <community name="Nordreisa">
+      <coordinates>455,312 422,340 391,303 366,297 306,217 351,173 389,205 380,233 393,253 421,246 428,260</coordinates>
+    </community>
+    <community name="Skjervøy">
+      <coordinates>296,128 283,156 306,217 351,173 341,128</coordinates>
+    </community>
+    <community name="Kåfjord">
+      <coordinates>351,313 300,273 306,217 366,297</coordinates>
+    </community>
+    <community name="Storfjord">
+      <coordinates>361,348 334,338 293,352 280,324 263,312 276,288 300,273 351,313</coordinates>
+    </community>
+    <community name="Målselv">
+      <coordinates>312,373 316,398 294,443 273,442 196,383 195,363 173,338 184,316 203,317 243,357 293,352</coordinates>
+    </community>
+    <community name="Bardu">
+      <coordinates>311,453 294,480 173,454 162,440 172,371 189,356 195,363 196,383 273,442 294,443</coordinates>
+    </community>
+    <community name="Lyngen">
+      <coordinates>283,156 257,239 280,253 276,288 300,273 306,217</coordinates>
+    </community>
+    <community name="Tromsø">
+      <coordinates>233,285 131,258 182,172 226,210 271,195 257,239 280,253 276,288 263,312</coordinates>
+    </community>
+    <community name="Karlsøy">
+      <coordinates>215,127 187,145 182,172 226,210 271,195 283,156 296,128</coordinates>
+    </community>
+    <community name="Balsfjord">
+      <coordinates>185,273 184,316 203,317 243,357 293,352 280,324 233,285</coordinates>
+    </community>
+    <community name="Lenvik">
+      <coordinates>121,264 136,282 128,313 149,333 173,338 184,316 185,273 131,258</coordinates>
+    </community>
+    <community name="Berg">
+      <coordinates>116,317 77,287 121,264 136,282 128,313</coordinates>
+    </community>
+    <community name="Torsken">
+      <coordinates>60,297 51,330 97,339 108,332 116,317 77,287</coordinates>
+    </community>
+    <community name="Tranøy">
+      <coordinates>144,339 115,347 110,369 72,361 74,351 97,339 108,332 116,317 128,313 149,333</coordinates>
+    </community>
+    <community name="Bjarkøy">
+      <coordinates>75,390 72,361 74,351 51,330 32,356 50,378 64,390</coordinates>
+    </community>
+    <community name="Sørreisa">
+      <coordinates>162,373 139,340 144,339 149,333 173,338 189,356 172,371</coordinates>
+    </community>
+    <community name="Dyrøy">
+      <coordinates>157,378 110,369 115,347 144,339 162,373</coordinates>
+    </community>
+    <community name="Salangen">
+      <coordinates>133,375 125,391 125,402 167,405 172,371 162,373 157,378</coordinates>
+    </community>
+    <community name="Levangen">
+      <coordinates>149,441 149,427 115,412 125,402 167,405 162,440</coordinates>
+    </community>
+    <community name="Gratangen">
+      <coordinates>126,446 93,425 115,412 149,427 149,441</coordinates>
+    </community>
+    <community name="Skånland">
+      <coordinates>70,425 59,458 74,466 126,446 93,425</coordinates>
+    </community>
+    <community name="Kvæfjord">
+      <coordinates>46,442 56,432 54,420 28,409 18,381 1,473</coordinates>
+    </community>
+    <community name="Harstad">
+      <coordinates>72,397 37,393 28,409 54,420 56,432 46,442 62,452 70,425</coordinates>
+    </community>
+  </county>
+  <county name="Finnmark">
+    <coordinates>451,28 456,61 438,89 426,82 431,65 407,52 387,70 388,109 343,118 336,105 342,81 311,49 350,20 404,9</coordinates>
+    <community name="Kautokeino">
+      <coordinates>96,453 71,409 95,395 78,358 105,329 162,315 179,375 231,409 218,457 162,429 135,462</coordinates>
+    </community>
+    <community name="Karasjok">
+      <coordinates>246,408 250,289 229,279 217,302 164,300 162,315 179,375 231,409</coordinates>
+    </community>
+    <community name="Alta">
+      <coordinates>66,283 81,272 75,254 106,229 132,240 164,300 162,315 99,332</coordinates>
+    </community>
+    <community name="Loppa">
+      <coordinates>11,264 15,225 89,240 75,254 81,272 66,283</coordinates>
+    </community>
+    <community name="Hasvik">
+      <coordinates>89,240 73,188 15,225</coordinates>
+    </community>
+    <community name="Hammerfest">
+      <coordinates>143,187 73,188 89,240 106,229</coordinates>
+    </community>
+    <community name="Kvalsund">
+      <coordinates>177,196 143,187 106,229 132,240 147,267 156,261</coordinates>
+    </community>
+    <community name="Porsanger">
+      <coordinates>233,237 223,181 191,174 177,196 156,261 147,267 164,300 217,302 229,279</coordinates>
+    </community>
+    <community name="Måsøy">
+      <coordinates>111,153 176,124 191,174 177,196 143,187</coordinates>
+    </community>
+    <community name="Nordkapp">
+      <coordinates>252,110 176,124 191,174 223,181</coordinates>
+    </community>
+    <community name="Lebesby">
+      <coordinates>275,108 287,154 287,218 229,279 233,237 223,181 252,110</coordinates>
+    </community>
+    <community name="Gamvik">
+      <coordinates>333,118 287,203 287,154 275,108 302,105</coordinates>
+    </community>
+    <community name="Tana">
+      <coordinates>319,240 341,259 327,224 337,202 358,178 326,157 314,154 287,203 287,218 229,279 250,289</coordinates>
+    </community>
+    <community name="Berlevåg">
+      <coordinates>378,134 358,178 314,154 333,118</coordinates>
+    </community>
+    <community name="Båtsfjord">
+      <coordinates>425,156 403,190 358,178 378,134</coordinates>
+    </community>
+    <community name="Vardø">
+      <coordinates>446,168 447,192 421,197 403,190 425,156</coordinates>
+    </community>
+    <community name="Vadsø">
+      <coordinates>421,225 374,224 366,191 349,189 358,178 421,197</coordinates>
+    </community>
+    <community name="Nesseby">
+      <coordinates>379,239 374,224 366,191 349,189 337,202 327,224 341,259</coordinates>
+    </community>
+    <community name="Sør-Varanger">
+      <coordinates>450,239 464,270 448,283 431,277 400,365 375,355 393,302 379,278 342,268 341,259 379,239 374,224 421,225</coordinates>
+    </community>
+  </county>
+</counties>
